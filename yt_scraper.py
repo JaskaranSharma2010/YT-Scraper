@@ -7,7 +7,7 @@ import re
 # CONFIG
 # ==================================================
 
-API_KEY = "AIzaSyC83YLUbCsAsijNJ2gQTfNx3X6n_0dyZsE"
+API_KEY = "YOUR_API"
 
 TARGET_CHANNELS = 1000
 
